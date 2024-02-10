@@ -4,7 +4,7 @@
 // @version      0.5.3
 // @description  Match faces to performers
 // @author       cc12344567
-// @match        http://localhost:9999/*
+// @match        http://192.168.88.82:6969/*
 // @connect      localhost
 // @connect      hf.space
 // @grant        GM_xmlhttpRequest
